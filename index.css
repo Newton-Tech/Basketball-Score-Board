@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    background: black;
+   
+   
+    text-align: center;
+    color: #EEEEEE;
+    
+    
+}
+
+.container {
+    
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.score-home{
+    width: 117px;
+    height: 120px;
+    background: linear-gradient(blue, white);
+    font-weight: 400;
+    line-height: 127px;
+    color: #F94F6D;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+
+.HOME-points{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.H-points{
+    width: 30px;
+    height: 30px; 
+    background: #9AABD8;
+    line-height: 30px;
+    color: white;
+}
